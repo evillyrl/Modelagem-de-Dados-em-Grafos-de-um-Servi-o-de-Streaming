@@ -1,0 +1,1213 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 873.3888861794164,
+        "y": 45.64272047541374
+      },
+      "caption": "Evilly",
+      "labels": [],
+      "properties": {
+        "Usuario": "id: 1"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 671.2614252259908,
+        "y": 199.5405454040801
+      },
+      "caption": "Leonardo",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 2"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 1027.2867111080832,
+        "y": 199.5405454040801
+      },
+      "caption": "Maria",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 3"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 507.0024091683188,
+        "y": 379.27062883141565
+      },
+      "caption": "Emilly",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 4"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 1190.1086243568109,
+        "y": 379.27062883141565
+      },
+      "caption": "Victor",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 5"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 372.94702364541416,
+        "y": 546.0845830094166
+      },
+      "caption": "Luiza",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 6"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 1353.5074991960487,
+        "y": 546.0845830094166
+      },
+      "caption": "Cecilia",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 7"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 206.13306946741324,
+        "y": 712.8985371874176
+      },
+      "caption": "Júlio",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 8"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 1468.736551260903,
+        "y": 767.1876306425615
+      },
+      "caption": "Luzia",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 9"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 39.31911528941219,
+        "y": 879.7124913654186
+      },
+      "caption": "Paulo",
+      "labels": [],
+      "properties": {
+        "Usuario": "id 10"
+      },
+      "style": {
+        "border-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 1147.8329322081336,
+        "y": 45.64272047541374
+      },
+      "caption": "Cisne Negro",
+      "labels": [],
+      "properties": {
+        "Filme": "id 101"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 427.1444217960139,
+        "y": 199.5405454040801
+      },
+      "caption": "O Exterminador do Futuro",
+      "labels": [],
+      "properties": {
+        "ID": "102"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 671.2614252259908,
+        "y": 496.9315759641338
+      },
+      "caption": "O Rei Leão",
+      "labels": [],
+      "properties": {
+        "ID": "104"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 1257.4258975001171,
+        "y": 199.5405454040801
+      },
+      "caption": "O Auto da Compadecida",
+      "labels": [],
+      "properties": {
+        "ID": "103"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 1080.8087789186297,
+        "y": 568.583514389771
+      },
+      "caption": "Atividade Paranormal",
+      "labels": [],
+      "properties": {
+        "ID": "105"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 1353.5074991960487,
+        "y": 45.64272047541371
+      },
+      "caption": "Drama/Fantasia",
+      "labels": [],
+      "properties": {
+        "ID 201": ""
+      },
+      "style": {
+        "caption-font-weight": "bold",
+        "property-font-size": 12,
+        "caption-font-size": 100,
+        "border-color": "#73d8ff",
+        "border-width": 4,
+        "radius": 60,
+        "node-margin": 4,
+        "node-padding": 2
+      }
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 1559.1820661839638,
+        "y": 45.64272047541368
+      },
+      "caption": "Darren Aronofsky",
+      "labels": [],
+      "properties": {
+        "id 401": ""
+      },
+      "style": {
+        "border-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 1147.8329322081336,
+        "y": -186.85347063185415
+      },
+      "caption": "Natalie Portman",
+      "labels": [],
+      "properties": {
+        "ID": "301"
+      },
+      "style": {
+        "border-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 39.319115289412196,
+        "y": 465.68620765769305
+      },
+      "caption": "Titanic",
+      "labels": [],
+      "properties": {
+        "ID": "106"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 442.3157248374164,
+        "y": 879.7124913654186
+      },
+      "caption": "Pulp Fiction - Tempo de Violência",
+      "labels": [],
+      "properties": {
+        "ID": "108"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 1468.736551260903,
+        "y": 986.2154398582725
+      },
+      "caption": "O Dilema das Redes",
+      "labels": [],
+      "properties": {
+        "ID": "109"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 1622.8820238053015,
+        "y": 546.0845830094166
+      },
+      "caption": "Avatar",
+      "labels": [],
+      "properties": {
+        "ID": "107"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 39.31911528941219,
+        "y": 1103.4162298948302
+      },
+      "caption": "La La Land: Cantando Estações",
+      "labels": [],
+      "properties": {
+        "ID": "110"
+      },
+      "style": {
+        "border-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 183.02741836603695,
+        "y": 199.5405454040801
+      },
+      "caption": "Ação/Aventura",
+      "labels": [],
+      "properties": {
+        "ID": "202"
+      },
+      "style": {
+        "border-color": "#73d8ff",
+        "radius": 55
+      }
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 427.1444217960139,
+        "y": -44.57645802589684
+      },
+      "caption": "Arnold Schwarzenegger",
+      "style": {
+        "border-width": 4,
+        "radius": 65,
+        "border-color": "#a4dd00",
+        "outside-position": "top"
+      },
+      "labels": [],
+      "properties": {
+        "ID 302": ""
+      }
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": -122.46400577452829,
+        "y": 199.5405454040801
+      },
+      "caption": "James Cameron",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "402"
+      }
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 1456.7322793219007,
+        "y": 314.61013860009723
+      },
+      "caption": "Selton Mello",
+      "style": {
+        "border-color": "#a4dd00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "303"
+      }
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 1468.736551260903,
+        "y": 199.54054540408004
+      },
+      "caption": "Comédia",
+      "style": {
+        "border-color": "#73d8ff"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "203"
+      }
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 1680.047205021689,
+        "y": 199.54054540408004
+      },
+      "caption": "Guel Arraes",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "403"
+      }
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 814.1339607889934,
+        "y": 354.05904040113126
+      },
+      "caption": "Leonardo DiCaprio",
+      "style": {
+        "border-color": "#a4dd00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "304"
+      }
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 671.2614252259908,
+        "y": 698.9838534479643
+      },
+      "caption": "Animação",
+      "style": {
+        "border-color": "#73d8ff"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "204"
+      }
+    },
+    {
+      "id": "n32",
+      "position": {
+        "x": 846.2438304194906,
+        "y": 597.957714706049
+      },
+      "caption": "Jon Favreau",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "404"
+      }
+    },
+    {
+      "id": "n34",
+      "position": {
+        "x": 1027.2867111080832,
+        "y": 379.27062883141565
+      },
+      "caption": "Sam Worthington",
+      "style": {
+        "border-color": "#a4dd00"
+      },
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n35",
+      "position": {
+        "x": 1080.8087789186297,
+        "y": 787.1832052661335
+      },
+      "caption": "Terror",
+      "style": {
+        "border-color": "#73d8ff"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "205"
+      }
+    },
+    {
+      "id": "n36",
+      "position": {
+        "x": 846.2438304194906,
+        "y": 787.1832052661335
+      },
+      "caption": "Oren Peli",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "405"
+      }
+    },
+    {
+      "id": "n38",
+      "position": {
+        "x": 183.02741836603695,
+        "y": 354.05904040113126
+      },
+      "caption": "John Travolta",
+      "style": {
+        "border-color": "#a4dd00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "306"
+      }
+    },
+    {
+      "id": "n39",
+      "position": {
+        "x": -161.21843627778813,
+        "y": 417.3602345025598
+      },
+      "caption": "Romance",
+      "style": {
+        "border-color": "#73d8ff"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "206"
+      }
+    },
+    {
+      "id": "n40",
+      "position": {
+        "x": -367.48779838489247,
+        "y": 415.44724577115977
+      },
+      "caption": "Quentin Tarantino",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "406"
+      }
+    },
+    {
+      "id": "n41",
+      "position": {
+        "x": 1845.8391355903802,
+        "y": 417.3602345025598
+      },
+      "caption": "Emma Stone",
+      "style": {
+        "border-color": "#a4dd00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "307"
+      }
+    },
+    {
+      "id": "n42",
+      "position": {
+        "x": 1908.8728075969416,
+        "y": 611.3122963490746
+      },
+      "caption": "Ficção Científica",
+      "style": {
+        "border-color": "#73d8ff"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "207"
+      }
+    },
+    {
+      "id": "n43",
+      "position": {
+        "x": 2153.795366346652,
+        "y": 611.3122963490746
+      },
+      "caption": "Damien Chazelle",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "407"
+      }
+    },
+    {
+      "id": "n44",
+      "position": {
+        "x": 1456.7322793219007,
+        "y": 1205.2432490739834
+      },
+      "caption": "Katie Featherston",
+      "style": {
+        "border-color": "#a4dd00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "309"
+      }
+    },
+    {
+      "id": "n45",
+      "position": {
+        "x": 1775.1873577290821,
+        "y": 986.2154398582725
+      },
+      "caption": "Documentário",
+      "style": {
+        "border-color": "#73d8ff",
+        "radius": 70
+      },
+      "labels": [],
+      "properties": {
+        "ID": "209"
+      }
+    },
+    {
+      "id": "n46",
+      "position": {
+        "x": 2081.638164197261,
+        "y": 986.2154398582725
+      },
+      "caption": "Robert Zemeckis",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "409"
+      }
+    },
+    {
+      "id": "n47",
+      "position": {
+        "x": -184.38462323999937,
+        "y": 1103.4162298948302
+      },
+      "caption": "Skyler Gisondo'});",
+      "style": {
+        "border-color": "#a4dd00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "310"
+      }
+    },
+    {
+      "id": "n48",
+      "position": {
+        "x": 39.319115289412196,
+        "y": 1327.1199684242417
+      },
+      "caption": "Musical",
+      "style": {
+        "border-color": "#73d8ff"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "210"
+      }
+    },
+    {
+      "id": "n49",
+      "position": {
+        "x": 315.1353286447848,
+        "y": 1327.1199684242417
+      },
+      "caption": "George Miller",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "410"
+      }
+    },
+    {
+      "id": "n50",
+      "position": {
+        "x": 267.06777213172154,
+        "y": 1010.0568721043602
+      },
+      "caption": "Matthew Broderick",
+      "style": {
+        "border-color": "#a4dd00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "308"
+      }
+    },
+    {
+      "id": "n51",
+      "position": {
+        "x": 571.4711384960979,
+        "y": 1103.4162298948302
+      },
+      "caption": "Suspense",
+      "style": {
+        "border-color": "#73d8ff"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "208"
+      }
+    },
+    {
+      "id": "n52",
+      "position": {
+        "x": 814.1339607889934,
+        "y": 1103.4162298948302
+      },
+      "caption": "Jeff Orlowski",
+      "style": {
+        "border-color": "#fcdc00"
+      },
+      "labels": [],
+      "properties": {
+        "ID": "408"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n10",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "above",
+        "detail-orientation": "horizontal"
+      }
+    },
+    {
+      "id": "n1",
+      "fromId": "n1",
+      "toId": "n11",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n2",
+      "fromId": "n3",
+      "toId": "n12",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n2",
+      "toId": "n13",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "below"
+      }
+    },
+    {
+      "id": "n4",
+      "fromId": "n4",
+      "toId": "n14",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "Gênero",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n15"
+    },
+    {
+      "id": "n6",
+      "fromId": "n15",
+      "toId": "n16",
+      "type": "Diretor",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n7",
+      "fromId": "n10",
+      "toId": "n17",
+      "type": "ACTOR",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n8",
+      "fromId": "n5",
+      "toId": "n18",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n9",
+      "fromId": "n7",
+      "toId": "n19",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n10",
+      "fromId": "n8",
+      "toId": "n20",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n11",
+      "fromId": "n6",
+      "toId": "n21",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n12",
+      "fromId": "n9",
+      "toId": "n22",
+      "type": "WATCHED",
+      "properties": {},
+      "style": {
+        "detail-position": "above"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "Genero",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n23"
+    },
+    {
+      "id": "n14",
+      "type": "Actor",
+      "style": {
+        "detail-position": "above",
+        "arrow-width": 3
+      },
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n24"
+    },
+    {
+      "id": "n15",
+      "type": "DIRETOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n23",
+      "toId": "n25"
+    },
+    {
+      "id": "n16",
+      "type": "ACTOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n13",
+      "toId": "n26"
+    },
+    {
+      "id": "n17",
+      "type": "Gênero",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n13",
+      "toId": "n27"
+    },
+    {
+      "id": "n18",
+      "type": "Diretor",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n27",
+      "toId": "n28"
+    },
+    {
+      "id": "n19",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n12",
+      "toId": "n29"
+    },
+    {
+      "id": "n20",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n12",
+      "toId": "n30"
+    },
+    {
+      "id": "n21",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n30",
+      "toId": "n32"
+    },
+    {
+      "id": "n22",
+      "type": "ACTOR",
+      "style": {
+        "detail-position": "below"
+      },
+      "properties": {},
+      "fromId": "n14",
+      "toId": "n34"
+    },
+    {
+      "id": "n23",
+      "type": "GENÊRO",
+      "style": {
+        "detail-position": "below"
+      },
+      "properties": {},
+      "fromId": "n14",
+      "toId": "n35"
+    },
+    {
+      "id": "n24",
+      "type": "DIRETOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n35",
+      "toId": "n36"
+    },
+    {
+      "id": "n25",
+      "type": "ACTOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n18",
+      "toId": "n38"
+    },
+    {
+      "id": "n26",
+      "type": "GENÊRO",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n18",
+      "toId": "n39"
+    },
+    {
+      "id": "n27",
+      "type": "DIRETOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n39",
+      "toId": "n40"
+    },
+    {
+      "id": "n28",
+      "type": "ACTOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n21",
+      "toId": "n41"
+    },
+    {
+      "id": "n29",
+      "type": "GÊNERO",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n21",
+      "toId": "n42"
+    },
+    {
+      "id": "n30",
+      "type": "DIRETOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n42",
+      "toId": "n43"
+    },
+    {
+      "id": "n31",
+      "type": "ACTOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n20",
+      "toId": "n44"
+    },
+    {
+      "id": "n32",
+      "type": "GÊNERO",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n20",
+      "toId": "n45"
+    },
+    {
+      "id": "n33",
+      "type": "DIRETOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n45",
+      "toId": "n46"
+    },
+    {
+      "id": "n34",
+      "type": "ACTOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n22",
+      "toId": "n47"
+    },
+    {
+      "id": "n35",
+      "type": "GÊNERO",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n22",
+      "toId": "n48"
+    },
+    {
+      "id": "n36",
+      "type": "DIRETOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n48",
+      "toId": "n49"
+    },
+    {
+      "id": "n37",
+      "type": "ACTOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n19",
+      "toId": "n50"
+    },
+    {
+      "id": "n38",
+      "type": "GÊNERO",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n19",
+      "toId": "n51"
+    },
+    {
+      "id": "n39",
+      "type": "DIRETOR",
+      "style": {
+        "detail-position": "above"
+      },
+      "properties": {},
+      "fromId": "n51",
+      "toId": "n52"
+    }
+  ]
+}
