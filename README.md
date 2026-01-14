@@ -99,6 +99,6 @@ Este banco foi criado como parte de um estudo prático de **modelagem de grafo e
 * Visualizar conexões no estilo redes sociais e conteúdo
 
 
-## 🧑‍💻 Autor(a)
+##  Autora
 
 **Evilly Rolim**
